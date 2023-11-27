@@ -1,0 +1,1 @@
+// full form of ES is Ecma Script ( official name of JavaScript)

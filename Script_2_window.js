@@ -1,0 +1,1 @@
+// window.print() = it will print the document in printer machine
